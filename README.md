@@ -1,5 +1,5 @@
 # Recipe-Site
-A simple recipe made with pure HTML. Made to test remote Git commits and website hosting through Github 
+A simple recipe site made with pure HTML. Made to test remote Git commits and website hosting through Github 
 
 ### [Access the site here](https://mohammadzfr.github.io/Recipe-Site/)
 
